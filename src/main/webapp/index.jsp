@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World，SpringBoot！</h2>
+<h2>Hello World，SpringCloud！</h2>
 </body>
 </html>
